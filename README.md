@@ -1,5 +1,4 @@
 # Handwritten-digit-recognizer
-<img width="1189" height="543" alt="download (1)" src="https://github.com/user-attachments/assets/a11b0caa-0377-4847-87e5-c41bf4163065" />
 
 🧠 Handwritten Digit Recognizer using CNN
 
@@ -92,3 +91,4 @@ Test Accuracy: ~99%
 Strong generalization & stable training
 
 Correctly predicts most digits from the test set
+<img width="1189" height="543" alt="download (1)" src="https://github.com/user-attachments/assets/a11b0caa-0377-4847-87e5-c41bf4163065" />
